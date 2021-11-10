@@ -1,0 +1,42 @@
+body {
+    background-color: grey;
+    text-decoration-color: blanchedalmond;
+}
+
+h1 {
+    display: block;
+    text-decoration-color: blanchedalmond;
+    text-align: center; 
+    text-transform: uppercase;
+	border-bottom:1px solid rgb(10, 1, 1);
+	padding-bottom:3px;
+}
+
+h2 {
+    text-align: center; 
+    text-decoration-color: blanchedalmond;
+    text-transform: capitalize;
+}
+
+h3 {
+    text-align: center; 
+    text-decoration-color: blanchedalmond;
+    font-style: italic;  
+}
+
+main {
+    line-height: 1.5em; 
+    column-count: 3;
+}
+
+p .bold {
+    font-weight: bold;
+}
+
+p .italics { 
+    font-style: italic;
+}
+
+p .addcolor {
+    color:darkblue;
+}
